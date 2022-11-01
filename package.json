@@ -1,0 +1,12 @@
+{
+  "name": "lightlion_docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zero",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.26",
+    "vue": "^3.2.41"
+  }
+}
