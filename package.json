@@ -5,6 +5,11 @@
   "author": "Zero",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev package",
+    "docs:build": "vitepress build package",
+    "docs:serve": "vitepress serve package"
+  },
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.26",
     "vue": "^3.2.41"
