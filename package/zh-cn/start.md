@@ -6,8 +6,11 @@
 
 开发时，请在每个请求前使用Http basic auth。
 
-::: warning 请求内容
+::: warning 认证内容
 username: APP ID  
 password: APP Secret
 :::
+
+## Cookie
+用户登录后的cookie作为一个`get`参数附带在请求的URL中，无论该请求是post还是get还是post，凡是需要cookie的，URL中都必须带上cookie参数，否则无法鉴权。
 
