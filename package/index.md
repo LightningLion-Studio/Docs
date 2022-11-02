@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: 快速开始
       link: /zh-cn/start
+    - theme: brand
+      text: 心电社区首页
+      link: https://light.xhhzs.cn
     - theme: alt
       text: View on Github
       link: https://github.com/groupguanfang/lightlion_v2
