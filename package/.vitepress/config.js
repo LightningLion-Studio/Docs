@@ -12,6 +12,10 @@ export default {
         link: '/zh-cn/start'
       },
       {
+        text: '贡献者',
+        link: '/zh-cn/contributor'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/LightningLion-Studio/Vue3.git'
       },
@@ -27,6 +31,10 @@ export default {
           {
             text: '快速开始',
             link: '/zh-cn/start'
+          },
+          {
+            text: '贡献者',
+            link: '/zh-cn/contributor'
           },
         ]
       },
