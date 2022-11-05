@@ -1,9 +1,10 @@
-# Nai
+# Nai <Badge type="warning" text="Beta" /><Badge text="v2.0.1" />
 本来这个后端项目只是因为我想写个博客而做的后端，起名为`Nai`，中文名`奈`。最近接到⚡️🦁️的社区项目，遂将这个博客项目扩展为⚡️🦁️的社区项目。
 
 ## 链接直达
-[点击直达心电社区(Beta)首页](https://light.xhhzs.cn)
-[点击直达腕上B站官网](https://watchbili.com)
+[点击直达心电社区首页](https://light.xhhzs.cn) <Badge type="warning" text="Beta" />
+
+[点击直达腕上B站官网](https://watchbili.com) <Badge text="正式版官网网址" />
 
 ## 唠嗑
 

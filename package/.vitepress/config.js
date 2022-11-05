@@ -2,6 +2,10 @@ export default {
   title: "Nai V2",
   lang: "zh-CN",
   themeConfig: {
+    footer: {
+      message: 'Released this docs under the MIT License.',
+      copyright: 'Copyright © 2021-present LightningLion Studio'
+    },
     nav: [
       {
         text: '概述',
