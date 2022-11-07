@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - dev # 这里只配置了分支
+      - master # 这里只配置了分支
 jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }}
