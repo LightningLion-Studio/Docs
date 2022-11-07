@@ -27,6 +27,7 @@ export default {
     sidebar: [
       {
         text:'起步',
+        collapsible: true,
         items: [
           {
             text: '简介',
@@ -44,6 +45,7 @@ export default {
       },
       {
         text: "公共接口",
+        collapsible: true,
         items: [
           {
             text: "获取全站公告",
@@ -53,6 +55,7 @@ export default {
       },
       {
         text: "文章",
+        collapsible: true,
         items: [
           {
             text: "获取文章列表",
@@ -74,6 +77,7 @@ export default {
       },
       {
         text: "用户",
+        collapsible: true,
         items: [
           {
             text: "登录",
