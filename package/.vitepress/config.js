@@ -71,7 +71,20 @@ export default {
             link: "/zh-cn/post/delete"
           },
         ]
-      }
+      },
+      {
+        text: "用户",
+        items: [
+          {
+            text: "登录",
+            link: "/zh-cn/user/login",
+          },
+          {
+            text: "注册",
+            link: "/zh-cn/user/register",
+          },
+        ]
+      },
     ]
   }
 }
