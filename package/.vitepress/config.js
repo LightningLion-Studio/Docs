@@ -51,6 +51,10 @@ export default {
             text: "获取全站公告",
             link: "/zh-cn/common/announcement"
           },
+          {
+            text: "全站PV",
+            link: "/zh-cn/common/pv"
+          },
         ]
       },
       {
