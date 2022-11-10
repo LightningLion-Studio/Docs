@@ -76,6 +76,28 @@ export default {
         ]
       },
       {
+        text: "圈子",
+        collapsible: true,
+        items: [
+          {
+            text: "获取话题列表",
+            link: "/zh-cn/circle/list"
+          },
+          {
+            text: "获取单篇话题",
+            link: "/zh-cn/circle/single"
+          },
+          {
+            text: "新建话题草稿",
+            link: "/zh-cn/circle/create"
+          },
+          {
+            text: "删除话题",
+            link: "/zh-cn/circle/delete"
+          },
+        ]
+      },
+      {
         text: "用户",
         collapsible: true,
         items: [
