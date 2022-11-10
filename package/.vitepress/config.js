@@ -95,6 +95,10 @@ export default {
             text: "删除话题",
             link: "/zh-cn/circle/delete"
           },
+          {
+            text: "获取所有圈子",
+            link: "/zh-cn/circle/circle"
+          },
         ]
       },
       {
