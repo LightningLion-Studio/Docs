@@ -1,7 +1,7 @@
 # 新建/保存文章草稿
 
 * 请求方式：`POST`
-* URL: `/post/create`
+* URL: `/post`
 
 ::: warning
 此接口必须使用cookie。在请求时请在URL中携带cookie的`GET`参数。
