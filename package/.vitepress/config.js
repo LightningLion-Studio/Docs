@@ -27,6 +27,7 @@ export default {
     sidebar: [
       {
         text:'起步',
+        collapsible: true,
         items: [
           {
             text: '简介',
@@ -44,15 +45,21 @@ export default {
       },
       {
         text: "公共接口",
+        collapsible: true,
         items: [
           {
             text: "获取全站公告",
             link: "/zh-cn/common/announcement"
           },
+          {
+            text: "全站PV",
+            link: "/zh-cn/common/pv"
+          },
         ]
       },
       {
         text: "文章",
+        collapsible: true,
         items: [
           {
             text: "获取文章列表",
@@ -71,7 +78,47 @@ export default {
             link: "/zh-cn/post/delete"
           },
         ]
-      }
+      },
+      {
+        text: "圈子",
+        collapsible: true,
+        items: [
+          {
+            text: "获取话题列表",
+            link: "/zh-cn/circle/list"
+          },
+          {
+            text: "获取单篇话题",
+            link: "/zh-cn/circle/single"
+          },
+          {
+            text: "新建话题草稿",
+            link: "/zh-cn/circle/create"
+          },
+          {
+            text: "删除话题",
+            link: "/zh-cn/circle/delete"
+          },
+          {
+            text: "获取所有圈子",
+            link: "/zh-cn/circle/circle"
+          },
+        ]
+      },
+      {
+        text: "用户",
+        collapsible: true,
+        items: [
+          {
+            text: "登录",
+            link: "/zh-cn/user/login",
+          },
+          {
+            text: "注册",
+            link: "/zh-cn/user/register",
+          },
+        ]
+      },
     ]
   }
 }

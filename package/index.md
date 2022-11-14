@@ -6,7 +6,7 @@ hero:
   text: Nai Special Version
   tagline: For LightningLion
   image:
-    src: /logo.png
+    src: ./logo.png
     alt: lightninglion logo
   actions:
     - theme: brand
