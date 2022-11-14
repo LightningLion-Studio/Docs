@@ -1,7 +1,7 @@
 # 删除文章
 
-* 请求方式：`POST`
-* URL: `/post/delete`
+* 请求方式：`DELETE`
+* URL: `/post`
 
 ::: warning
 此接口必须使用cookie。在请求时请在URL中携带cookie的`GET`参数。
